@@ -1,0 +1,2355 @@
+﻿#-----------------------------------------------------------------
+# Mod Ranges
+#-----------------------------------------------------------------
+#------------------------------------
+104759_0000 Systems
+#------------------------------------
+1047590000 
+
+# Talismans
+1047590100 Crimson Amber Medallion
+1047590101 Crimson Amber Medallion +1
+1047590102 Crimson Amber Medallion +2
+
+1047590110 Cerulean Amber Medallion
+1047590111 Cerulean Amber Medallion +1
+1047590112 Cerulean Amber Medallion +2
+
+1047590120 Viridian Amber Medallion
+1047590121 Viridian Amber Medallion +1
+1047590122 Viridian Amber Medallion +2
+
+1047590130 Arsenal Charm
+1047590131 Arsenal Charm +1
+1047590132 Great-Jar's Arsenal
+
+1047590140 Erdtree's Favor
+1047590141 Erdtree's Favor +1
+1047590142 Erdtree's Favor +2
+
+1047590150 Radagon's Soreseal # NOT USED
+
+1047590160 Starscourge Heirloom
+1047590161 Starscourge Heirloom +1
+1047590162 Starscourge Heirloom +2
+
+1047590170 Prosthesis-Wearer Heirloom
+1047590171 Prosthesis-Wearer Heirloom +1
+1047590172 Prosthesis-Wearer Heirloom +2
+
+1047590180 Stargazer Heirloom
+1047590181 Stargazer Heirloom +1
+1047590182 Stargazer Heirloom +2
+
+1047590190 Two Fingers Heirloom
+1047590191 Two Fingers Heirloom +1
+1047590192 Two Fingers Heirloom +2
+
+1047590200 Silver Scarab
+1047590201 Silver Scarab +1
+1047590202 Silver Scarab +2
+
+1047590210 Gold Scarab
+1047590211 Gold Scarab +1
+1047590212 Gold Scarab +2
+
+1047590220 Moon of Nokstella # NOT USED
+
+1047590230 Green Turtle Talisman 
+1047590231 Green Turtle Talisman +1
+1047590232 Green Turtle Talisman +2
+
+1047590240 Stalwart Horn Charm
+1047590241 Stalwart Horn Charm +1
+1047590242 Stalwart Horn Charm +2
+
+1047590250 Immunizing Horn Charm
+1047590251 Immunizing Horn Charm +1
+1047590252 Immunizing Horn Charm +2
+
+1047590260 Clarifying Horn Charm
+1047590261 Clarifying Horn Charm +1
+1047590262 Clarifying Horn Charm +2
+
+1047590270 Prince of Death's Pustule
+1047590271 Prince of Death's Cyst 
+1047590272 Prince of Death's Cyst +1
+
+1047590280 Mottled Necklace
+1047590281 Mottled Necklace +1
+1047590282 Mottled Necklace +2
+
+1047590290 Bull-Goat's Talisman
+1047590291 Bull-Goat's Talisman +1
+1047590292 Bull-Goat's Talisman +2
+
+1047590300 Marika's Scarseal # NOT USED
+
+1047590310 Warrior Jar Shard
+1047590311 Shard of Alexander
+1047590312 Shard of Alexander +1
+
+1047590320 Millicent's Prosthesis
+1047590321 Millicent's Prosthesis +1
+1047590322 Millicent's Prosthesis +2
+
+1047590330 Magic Scorpion Charm
+1047590331 Magic Scorpion Charm +1
+1047590332 Magic Scorpion Charm +2
+
+1047590340 Lightning Scorpion Charm
+1047590341 Lightning Scorpion Charm +1
+1047590342 Lightning Scorpion Charm +2
+
+1047590350 Fire Scorpion Charm
+1047590351 Fire Scorpion Charm +1
+1047590352 Fire Scorpion Charm +2
+
+1047590360 Sacred Scorpion Charm
+1047590361 Sacred Scorpion Charm +1
+1047590362 Sacred Scorpion Charm +2
+
+1047590370 Red-Feathered Branchsword
+1047590371 Red-Feathered Branchsword +1
+1047590372 Red-Feathered Branchsword +2
+
+1047590380 Ritual Sword Talisman
+1047590381 Ritual Sword Talisman +1
+1047590382 Ritual Sword Talisman +2
+
+1047590390 Spear Talisman
+1047590391 Spear Talisman +1
+1047590392 Spear Talisman +2
+
+1047590400 Hammer Talisman
+1047590401 Hammer Talisman +1
+1047590402 Hammer Talisman +2
+
+1047590410 Winged Sword Insignia
+1047590411 Rotten Winged Sword Insignia
+1047590412 Rotten Winged Sword Insignia +1
+
+1047590420 Dagger Talisman
+1047590421 Dagger Talisman +1
+1047590422 Dagger Talisman +2
+
+1047590430 Arrow's Reach Talisman
+1047590431 Arrow's Reach Talisman +1
+1047590432 Arrow's Reach Talisman +2
+
+1047590440 Blue Dancer Charm
+1047590441 Blue Dancer Charm +1
+1047590442 Blue Dancer Charm +2
+
+1047590450 Twinblade Talisman
+1047590451 Twinblade Talisman +1
+1047590452 Twinblade Talisman +2
+
+1047590460 Axe Talisman
+1047590461 Axe Talisman +1
+1047590462 Axe Talisman +2
+
+1047590470 Lance Talisman
+1047590471 Lance Talisman +1
+1047590472 Lance Talisman +2
+
+1047590480 Arrow's Sting Talisman
+1047590481 Arrow's Sting Talisman +1
+1047590482 Arrow's Sting Talisman +2
+
+1047590490 Lord of Blood's Exultation
+1047590491 Lord of Blood's Exultation +1
+1047590492 Lord of Blood's Exultation +2
+
+1047590500 Kindred of Rot's Exultation
+1047590501 Kindred of Rot's Exultation +1
+1047590502 Kindred of Rot's Exultation +2
+
+1047590510 Claw Talisman
+1047590511 Claw Talisman +1
+1047590512 Claw Talisman +2
+
+1047590520 Roar Medallion
+1047590521 Roar Medallion +1
+1047590522 Roar Medallion +2
+
+1047590530 Curved Sword Talisman
+1047590531 Curved Sword Talisman +1
+1047590532 Curved Sword Talisman +2
+
+1047590540 Companion Jar
+1047590541 Companion Jar +1
+1047590542 Companion Jar +2
+
+1047590550 Perfumer's Talisman
+1047590551 Perfumer's Talisman +1
+1047590552 Perfumer's Talisman +2
+
+1047590560 Graven-School Talisman
+1047590561 Graven-Mass Talisman 
+1047590562 Graven-Mass Talisman +1
+
+1047590570 Faithful's Canvas Talisman
+1047590571 Flock's Canvas Talisman
+1047590572 Flock's Canvas Talisman +1
+
+1047590580 Old Lord's Talisman
+1047590581 Old Lord's Talisman +1
+1047590582 Old Lord's Talisman +2
+
+1047590590 Radagon Icon
+1047590591 Radagon Icon +1
+1047590592 Radagon Icon +2
+
+1047590600 Primal Glintstone Blade
+1047590601 Primal Glintstone Blade +1
+1047590602 Primal Glintstone Blade +2
+
+1047590610 Godfrey Icon
+1047590611 Godfrey Icon +1
+1047590612 Godfrey Icon +2
+
+1047590620 Dragoncrest Shield Talisman
+1047590621 Dragoncrest Shield Talisman +1
+1047590622 Dragoncrest Shield Talisman +2
+
+1047590630 Spelldrake Talisman
+1047590631 Spelldrake Talisman +1
+1047590632 Spelldrake Talisman +2
+
+1047590640 Flamedrake Talisman
+1047590641 Flamedrake Talisman +1
+1047590642 Flamedrake Talisman +2
+
+1047590650 Boltdrake Talisman
+1047590651 Boltdrake Talisman +1
+1047590652 Boltdrake Talisman +2
+
+1047590660 Haligdrake Talisman
+1047590661 Haligdrake Talisman +1
+1047590662 Haligdrake Talisman +2
+
+1047590670 Pearldrake Talisman
+1047590671 Pearldrake Talisman +1
+1047590672 Pearldrake Talisman +2
+
+1047590680 Crucible Scale Talisman
+1047590681 Crucible Scale Talisman +1
+1047590682 Crucible Scale Talisman +2
+
+1047590690 Crucible Feather Talisman
+1047590691 Crucible Feather Talisman +1
+1047590692 Crucible Feather Talisman +2
+
+1047590700 Blue-Feathered Branchsword
+1047590701 Blue-Feathered Branchsword +1
+1047590702 Blue-Feathered Branchsword +2
+
+1047590710 Ritual Shield Talisman
+1047590711 Ritual Shield Talisman +1
+1047590712 Ritual Shield Talisman +2
+
+1047590720 Greatshield Talisman
+1047590721 Greatshield Talisman +1
+1047590722 Greatshield Talisman +2
+
+1047590730 Crucible Knot Talisman # NOT USED
+
+1047590740 Crimson Seed Talisman
+1047590741 Crimson Seed Talisman +1
+1047590742 Crimson Seed Talisman +2
+
+1047590750 Cerulean Seed Talisman
+1047590751 Cerulean Seed Talisman +1
+1047590752 Cerulean Seed Talisman +2
+
+1047590760 Blessed Dew Talisman
+1047590761 Blessed Dew Talisman +1
+1047590762 Blessed Dew Talisman +2
+
+1047590770 Taker's Cameo
+1047590771 Taker's Cameo +1
+1047590772 Taker's Cameo +2
+
+1047590780 Godskin Swaddling Cloth
+1047590781 Godskin Swaddling Cloth +1
+1047590782 Godskin Swaddling Cloth +2
+
+1047590790 Assassin's Crimson Dagger
+1047590791 Assassin's Crimson Dagger +1
+1047590792 Assassin's Crimson Dagger +2
+
+1047590800 Assassin's Cerulean Dagger
+1047590801 Assassin's Cerulean Dagger +1
+1047590802 Assassin's Cerulean Dagger +2
+
+1047590810 Carian Filigreed Crest
+1047590811 Carian Filigreed Crest +1
+1047590812 Carian Filigreed Crest +2
+
+1047590820 Ancestral Spirit's Horn
+1047590821 Ancestral Spirit's Horn +1
+1047590822 Ancestral Spirit's Horn +2
+
+1047590830 Fractured Blade
+1047590831 Fractured Blade +1
+1047590832 Fractured Blade +2
+
+1047590840 Aberrant Eye
+1047590841 Aberrant Eye +1
+1047590842 Aberrant Eye +2
+
+1047590850 Gladiatorial Mark
+1047590851 Gladiatorial Mark +1
+1047590852 Gladiatorial Mark +2
+
+1047590860 Thumb Ring of Pharris
+1047590861 Thumb Ring of Pharris +1
+1047590862 Thumb Ring of Pharris +2
+
+1047590870 Vambrace of Trefin
+1047590871 Vambrace of Trefin +1
+1047590872 Vambrace of Trefin +2
+
+1047590880 Bracing Ring of Ergoth
+1047590881 Bracing Ring of Ergoth +1
+1047590882 Bracing Ring of Ergoth +2
+
+1047590890 Prisoner's Chain
+1047590891 Prisoner's Chain +1
+1047590892 Prisoner's Chain +2
+
+1047590900 Signet of Fury
+1047590901 Signet of Fury +1
+1047590902 Signet of Fury +2
+
+1047590910 Forgotten Pendant
+1047590911 Forgotten Pendant +1
+1047590912 Forgotten Pendant +2
+
+1047590920 Blood Conduit
+1047590921 Blood Conduit +1
+1047590922 Blood Conduit +2
+
+1047590930 Riding Horn
+1047590931 Riding Horn +1
+1047590932 Riding Horn +2
+
+1047590940 
+1047590950
+1047590960
+1047590970
+1047590980
+1047590990
+
+#------------------------------------
+104761_0000 Systems
+#------------------------------------
+1047610010 Default Setup flag
+1047610011 Quickstart taken
+1047610012 Flasks given
+1047610013 Tarnished's Wizened Finger - Removal Script triggered
+1047610014 Screenshot Tool toggle
+1047610015 Elden Beast Warp
+
+1047610020 Starting Location completed
+1047610021 Journey Modifiers completed
+1047610025 Accursed run completed
+
+1047610030 Covenant: Servants of the Grafted
+1047610031 Covenant: Servants of the Grafted - Rank 1
+1047610032 Covenant: Servants of the Grafted - Rank 2
+1047610033 Covenant: Servants of the Grafted - Rank 3
+
+1047610035 Covenant: X
+1047610036 Covenant: X - Rank 1
+1047610037 Covenant: X - Rank 2
+1047610038 Covenant: X - Rank 3
+
+1047610040 Covenant: X
+1047610041 Covenant: X - Rank 1
+1047610042 Covenant: X - Rank 2
+1047610043 Covenant: X - Rank 3
+
+1047610045 Covenant: X
+1047610046 Covenant: X - Rank 1
+1047610047 Covenant: X - Rank 2
+1047610048 Covenant: X - Rank 3
+
+1047610050 Covenant: X
+1047610051 Covenant: X - Rank 1
+1047610052 Covenant: X - Rank 2
+1047610053 Covenant: X - Rank 3
+
+1047610055 Covenant: X
+1047610056 Covenant: X - Rank 1
+1047610057 Covenant: X - Rank 2
+1047610058 Covenant: X - Rank 3
+
+1047610060 Covenant: X
+1047610061 Covenant: X - Rank 1
+1047610062 Covenant: X - Rank 2
+1047610063 Covenant: X - Rank 3
+
+1047610065 Covenant: X
+1047610066 Covenant: X - Rank 1
+1047610067 Covenant: X - Rank 2
+1047610068 Covenant: X - Rank 3
+
+1047610070 Covenant: X
+1047610071 Covenant: X - Rank 1
+1047610072 Covenant: X - Rank 2
+1047610073 Covenant: X - Rank 3
+
+1047610075 Covenant: X
+1047610076 Covenant: X - Rank 1
+1047610077 Covenant: X - Rank 2
+1047610078 Covenant: X - Rank 3
+
+1047610080 Covenant: X
+1047610081 Covenant: X - Rank 1
+1047610082 Covenant: X - Rank 2
+1047610083 Covenant: X - Rank 3
+
+1047610085 Covenant: X
+1047610086 Covenant: X - Rank 1
+1047610087 Covenant: X - Rank 2
+1047610088 Covenant: X - Rank 3
+
+1047610090 Covenant: X
+1047610091 Covenant: X - Rank 1
+1047610092 Covenant: X - Rank 2
+1047610093 Covenant: X - Rank 3
+
+1047610095 Covenant: X
+1047610096 Covenant: X - Rank 1
+1047610097 Covenant: X - Rank 2
+1047610098 Covenant: X - Rank 3
+
+1047610100 Hidden Helm enabled (obsolete)
+1047610101 Transmog Change toggle
+
+1047610150 Journey Configuration finalized
+1047610151 Journey Type: Tarnished
+1047610152 Journey Type: Explorer
+1047610153 Journey Type: Conqueror
+1047610154 Journey Type: Accursed
+
+1047610160 Journey Modifier: Immediate Torrent
+1047610161 Journey Modifier: Immediate Roundtable Hold
+1047610162 Journey Modifier: Reveal Map
+
+1047610170 Starting Location: Here
+1047610171 Starting Location: Random
+1047610172 Starting Location: Limgrave
+1047610173 Starting Location: Weeping Penisula
+1047610174 Starting Location: Liurnia
+1047610175 Starting Location: Mt. Gelmir
+1047610176 Starting Location: Altus Plateau
+1047610177 Starting Location: Moonlight Altar
+1047610178 Starting Location: Caelid
+1047610179 Starting Location: Mountaintops of the Giants
+1047610180 Starting Location: Miquella's Haligtree
+
+1047610200 Custom Loadout: Selected
+1047610210 Custom Loadout: Itemlot Option
+1047610220 Custom Loadout: Free Souls Option
+1047610230 Custom Loadout: Material Removal Done
+1047610231 Custom Loadout: Material Remove
+1047610240 Perfume Bottle Kit
+1047610250 Cracked Pot Kit
+1047610260 Ritual Pot Kit
+
+# Arena Challenge
+1047610300 Warp to Arena
+1047610301 Gladiatorial Mark reward
+1047610302 Warp to Great Colosseum
+1047610303 Warp to Royal Colosseum
+
+1047610320 Trial Type: The Family
+1047610321 Trial Type: Azur's Vengeance
+1047610322 Trial Type: Magmatic Cabal
+
+1047610380 Trial Difficulty: Standard
+1047610381 Trial Difficulty: Hard
+1047610382 Trial Difficulty: Nightmare
+
+1047610310 Gauntlet Type: Demi-Human Deluge
+1047610311 Gauntlet Type: Godrick's Own
+1047610312 Gauntlet Type: Revenge of the Gladiators
+1047610313 Gauntlet Type: Misbegotten Crucible
+
+1047610390 Gauntlet Difficulty: Standard
+1047610391 Gauntlet Difficulty: Hard
+1047610392 Gauntlet Difficulty: Nightmare
+
+1047610350 Music: None
+1047610351 Music: Godfrey, First Elden Lord         # 472001
+1047610352 Music: Grafted Scion                     # 920900
+1047610353 Music: Margit, the Fell Omen             # 213000
+1047610354 Music: Rennala, Queen of the Full Moon   # 203000
+1047610355 Music: Red Wolf of Radagon               # 921400
+1047610356 Music: Rykard, Lord of Blasphemy         # 471000
+1047610357 Music: Godskin Noble                     # 356000
+1047610358 Music: Abductor Virgins                  # 931000
+1047610359 Music: Starscourge Radahn                # 473000
+1047610360 Music: Morgott, the Omen King            # 213001
+1047610361 Music: Ancestor Spirit                   # 467000
+1047610362 Music: Dragonkin Soldier of Nokstella    # 920300
+1047610363 Music: Astel, Naturalborn of the Void    # 920700
+1047610364 Music: Mohg, Lord of Blood               # 480000
+1047610365 Music: Fire Giant                        # 476000
+1047610366 Music: Hoarah Loux                       # 472000
+1047610367 Music: Sir Gideon Ofnir                  # 921100
+1047610368 Music: Maliketh, The Black Blade         # 211000
+1047610369 Music: Dragonlord Placidusax             # 452000
+1047610370 Music: Malenia, Blade of Miquella        # 212000
+1047610371 Music: Loretta, Knight of the Haligtree  # 920200
+1047610372 Music: Radagon of the Golden Order       # 219000
+
+
+# Time
+1047610400
+1047610410 Time Setting: Randomise Time on Spawn
+1047610411 Time Setting: Force Day on Spawn
+1047610412 Time Setting: Force Noon on Spawn
+1047610413 Time Setting: Force Night on Spawn
+
+# Accursed Debuffs
+1047610420 Max HP   25000 # 60000 # 7300100
+1047610425 Max FP   25001
+1047610430 Max Stamina  25002
+1047610435 Max Equip Load 25003
+1047610440 HP Recovery Effectiveness 25004
+1047610445 Vigor    25005
+1047610450 Mind 25006
+1047610455 Endurance    25007
+1047610460 Strength 25008
+1047610465 Dexterity    25009
+1047610470 Intelligence 25010
+1047610475 Faith    25011
+1047610480 Arcane   25012
+1047610485 HP Loss  25013
+1047610490 FP Loss  25014
+1047610495 Stamina Recovery Drain   25015
+1047610530 Physical Damage  25016
+1047610535 Magic Damage 25017
+1047610540 Fire Damage 25018
+1047610545 Lightning Damage 25019
+1047610550 Holy Damage 25020
+1047610555 Slash Absorption 25021
+1047610560 Strike Absorption 25022
+1047610565 Thrust Absorption 25023
+1047610570 Standard Absorption 25024
+1047610575 Magic Absorption 25025
+1047610580 Fire Absorption 25026
+1047610585 Lightning Absorption 25027
+1047610590 Holy Absorption 25028
+1047610595 Toughness Absorption 25029
+1047610635 Poison Resist 25030
+1047610640 Scarlet Rot Resist 25031
+1047610645 Hemorrhage Resist 25032
+1047610650 Blight Resist 25033
+1047610655 Frostbite Resist 25034
+1047610660 Sleep Resist 25035
+1047610665 Madness Resist 25036
+1047610670 Guard Stability 25037
+1047610675 Rune Absorption 25038
+1047610680 Skill FP Consumption 25039
+1047610685 Sorcery FP Consumption 25040
+1047610690 Incantation FP Consumption 25041
+1047610695 Cast Speed 25042
+1047610725 Weapon Stamina Consumption 25043
+1047610730 Vendor Greed 25044
+
+# Weather
+1047610500
+1047610510 Force Weather: Default
+1047610511 Force Weather: Rain
+1047610512 Force Weather: Snow
+1047610513 Force Weather: Windy Rain
+1047610514 Force Weather: Fog
+1047610515 Force Weather: Cloudless
+1047610516 Force Weather: Flat Clouds
+1047610517 Force Weather: Puffy Clouds
+1047610518 Force Weather: Rainy Clouds
+1047610519 Force Weather: Windy Fog
+1047610520 Force Weather: Heavy Snow
+1047610521 Force Weather: Heavy Fog
+1047610522 Force Weather: Windy, Puffy Clouds
+1047610523 Force Weather: Rainy, Heavy Fog
+1047610524 Force Weather: Snowy, Heavy Fog
+1047610525 Force Weather: Scattered Rain
+
+# Deflection
+1047610600 Selected Deflect Type: Storm
+1047610601 Selected Deflect Type: Holy
+1047610602 Selected Deflect Type: Moon
+1047610603 Selected Deflect Type: Fire
+1047610604 Selected Deflect Type: Thorn
+
+1047610610 Unlocked Deflect Level: Standard
+1047610611 Unlocked Deflect Level: Improved
+1047610612 Unlocked Deflect Level: Perfected
+
+1047610620 Unlocked Deflect Type: Storm
+1047610621 Unlocked Deflect Type: Holy
+1047610622 Unlocked Deflect Type: Moon
+1047610623 Unlocked Deflect Type: Fire
+1047610624 Unlocked Deflect Type: Thor
+
+1047610630 Display Perfect Deflect visual
+
+# Training System
+1047610700 Location Update
+1047610701 Location: Single
+1047610702 Location: Triangle Triple
+1047610703 Location: Square Quad
+1047610704 Location: Parallel Duo
+1047610705 Location: Clustered Mass
+
+1047610710 Type Update
+1047610711 Type: Black Knife Assassin 
+1047610712 Type: Runebear
+1047610713 Type: Imp
+1047610714 Type: Player: Self
+1047610715 Type: Player: Random
+
+1047610800 Dummy Setup
+1047610801 Enable HP Regeneration
+1047610802 Enable Stagger
+1047610803 Enable Hostility
+1047610804 Enable Aux Inflict
+1047610805 Enable Backstab
+1047610806 Enable Damage
+
+1047610810 HP: 2000
+1047610811 HP: 5000
+1047610812 HP: 10000
+1047610813 HP: 20000
+1047610814 HP: 50000
+1047610815 HP: 100000
+
+1047610820 Standard Absorption: Standard
+1047610821 Standard Absorption: +20%
+1047610822 Standard Absorption: +40%
+1047610823 Standard Absorption: +60%
+1047610824 Standard Absorption: +80%
+1047610825 Standard Absorption: +100%
+
+1047610830 Magic Absorption: Standard
+1047610831 Magic Absorption: +20%
+1047610832 Magic Absorption: +40%
+1047610833 Magic Absorption: +60%
+1047610834 Magic Absorption: +80%
+1047610835 Magic Absorption: +100%
+
+1047610840 Fire Absorption: Standard
+1047610841 Fire Absorption: +20%
+1047610842 Fire Absorption: +40%
+1047610843 Fire Absorption: +60%
+1047610844 Fire Absorption: +80%
+1047610845 Fire Absorption: +100%
+
+1047610850 Lightning Absorption: Standard
+1047610851 Lightning Absorption: +20%
+1047610852 Lightning Absorption: +40%
+1047610853 Lightning Absorption: +60%
+1047610854 Lightning Absorption: +80%
+1047610855 Lightning Absorption: +100%
+
+1047610860 Holy Absorption: Standard
+1047610861 Holy Absorption: +20%
+1047610862 Holy Absorption: +40%
+1047610863 Holy Absorption: +60%
+1047610864 Holy Absorption: +80%
+1047610865 Holy Absorption: +100%
+
+1047610870 Slash Absorption: Standard
+1047610871 Slash Absorption: +20%
+1047610872 Slash Absorption: +40%
+1047610873 Slash Absorption: +60%
+1047610874 Slash Absorption: +80%
+1047610875 Slash Absorption: +100%
+
+1047610880 Strike Absorption: Standard
+1047610881 Strike Absorption: +20%
+1047610882 Strike Absorption: +40%
+1047610883 Strike Absorption: +60%
+1047610884 Strike Absorption: +80%
+1047610885 Strike Absorption: +100%
+
+1047610890 Thrust Absorption: Standard
+1047610891 Thrust Absorption: +20%
+1047610892 Thrust Absorption: +40%
+1047610893 Thrust Absorption: +60%
+1047610894 Thrust Absorption: +80%
+1047610895 Thrust Absorption: +100%
+
+# Castigations
+1047610900 Wounded Fury
+1047610901 Thick Hides
+1047610902 Stalwart Adversaries
+1047610903 Crippling Strikes
+1047610904 Regenerative Foes
+1047610905 Fetid Gash
+1047610906 Blighted Touch
+1047610907 Bloodthirsty Maw
+1047610908 Slumbering Blow
+1047610909 Frenzying Swat
+1047610910 Spectral Shift
+1047610911 Relentless Approach
+1047610912 Fresh Meat
+1047610913 Corrupted Flasks
+1047610914 Brittle Bones
+1047610915 Alacrity
+1047610916 Lethargic Mind
+
+1047610980 Megamind
+
+#------------------------------------
+104762_0000 Misc
+#------------------------------------
+1047620000 Random Start 
+1047620999 Random End
+
+1047621100 
+
+#------------------------------------
+104963_0000 Systems
+#------------------------------------
+1049630000 Farm Ready
+1049630001 Farm Visited
+1049630002 Started Farm Grow Cycle (Set by Farmer Jar)
+
+1049630005 Jar of Cultivation: Said Introduction
+
+1049630010 Small Crop
+1049630011 Medium Crop
+1049630012 Large Crop
+
+1049630020 Timer: 20 seconds
+1049630021 Timer: 40 seconds
+1049630022 Timer: 60 seconds
+1049630123 Timer: 80 seconds
+1049630024 Timer: 100 seconds
+1049630025 Timer: 120 seconds
+1049630026 Timer: 140 seconds
+1049630027 Timer: 160 seconds
+1049630028 Timer: 180 seconds
+1049630029 Timer: 200 seconds
+1049630030 Timer: 220 seconds
+1049630031 Timer: 240 seconds
+1049630032 Timer: 260 seconds
+1049630033 Timer: 280 seconds
+1049630034 Timer: 300 seconds
+1049630035 Timer: 320 seconds
+1049630036 Timer: 340 seconds
+1049630037 Timer: 360 seconds
+1049630038 Timer: 380 seconds
+1049630039 Timer: 400 seconds
+1049630040 Timer: 420 seconds
+1049630041 Timer: 440 seconds
+1049630042 Timer: 460 seconds
+1049630043 Timer: 480 seconds
+1049630044 Timer: 500 seconds
+
+1049630100 Type: St. Trina's Lily
+1049630101 Type: Miquella's Lily
+1049630102 Type: Grave Violet 
+1049630103 Type: Faded Erdleaf Flower 
+1049630104 Type: Erdtree Flower
+1049630105 Type: Altus Bloom
+1049630106 Type: Fire Blossom
+1049630107 Type: Golden Sunflower
+1049630108 Type: Fulgurbloom
+1049630109 Type: Tarnished Golden Sunflower
+1049630110 Type: Herba
+1049630111 Type: Arteria Leaf
+1049630112 Type: Dewkissed Herba
+1049630113 Type: Rowa Fruit
+1049630114 Type: Golden Rowa
+1049630115 Type: Rimed Rowa
+1049630116 Type: Bloodrose
+1049630117 Type: Eye of Yelough
+1049630118 Type: Crystal Bud
+1049630119 Type: Rimed Crystal Bud
+1049630120 Type: Sacramental Bud
+1049630121 Type: Mushroom
+1049630122 Type: Melted Mushroom
+1049630123 Type: Toxic Mushroom
+1049630124 Type: Root Resin
+
+1049630150 Block Pickup: St. Trina's Lily
+1049630151 Block Pickup: Miquella's Lily
+1049630152 Block Pickup: Grave Violet 
+1049630153 Block Pickup: Faded Erdleaf Flower 
+1049630154 Block Pickup: Erdtree Flower
+1049630155 Block Pickup: Altus Bloom
+1049630156 Block Pickup: Fire Blossom
+1049630157 Block Pickup: Golden Sunflower
+1049630158 Block Pickup: Fulgurbloom
+1049630159 Block Pickup: Tarnished Golden Sunflower
+1049630160 Block Pickup: Herba
+1049630161 Block Pickup: Arteria Leaf
+1049630162 Block Pickup: Dewkissed Herba
+1049630163 Block Pickup: Rowa Fruit
+1049630164 Block Pickup: Golden Rowa
+1049630165 Block Pickup: Rimed Rowa
+1049630166 Block Pickup: Bloodrose
+1049630167 Block Pickup: Eye of Yelough
+1049630168 Block Pickup: Crystal Bud
+1049630169 Block Pickup: Rimed Crystal Bud
+1049630170 Block Pickup: Sacramental Bud
+1049630171 Block Pickup: Mushroom
+1049630172 Block Pickup: Melted Mushroom
+1049630173 Block Pickup: Toxic Mushroom
+1049630174 Block Pickup: Root Resin
+
+# Stranded Graveyard
+1049630200 Ulcerated Tree Spirit
+1049630201 Soldier of Godrick
+1049630202 Grafted Scion
+# Limgrave
+1049630203 Cemetery Shade
+1049630204 Erdtree Burial Watchdog
+1049630205 Grave Warden Duelist
+1049630206 Black Knife Assassin
+1049630207 Patches
+1049630208 Demi-Human Chief
+1049630209 Guardian Golem
+1049630210 Miranda the Blighted Bloom
+1049630211 Beastman of Farum Azula
+1049630212 Stonedigger Troll
+1049630213 Tree Sentinel
+1049630214 Crucible Knight
+1049630215 Death Rite Bird
+1049630216 Bell-Bearing Hunter
+1049630217 Flying Dragon Agheel
+1049630218 Night's Cavalry
+1049630219 Bloodhound Knight Darriwil
+1049630220 Mad Pumpkin Head
+1049630221 Tibia Mariner
+# Stormveil Castle
+1049630222 Margit
+1049630223 Godrick
+# Weeping Penisula
+1049630224 Erdtree Burial Watchdog
+1049630225 Runebear
+1049630226 Scaly Misbegotten
+1049630227 Ancient Hero of Zamor
+1049630228 Leonine Misbegotten
+1049630229 Erdtree Avatar
+1049630230 Death Rite Bird
+1049630231 Night's Cavalry
+# Liurnia of the Lakes 
+1049630232 Spirit-Caller Snail
+1049630233 Cemetery Shade
+1049630234 Black Knife Assassin
+1049630235 Erdtree Burial Watchdog
+1049630236 Cleanrot Knight
+1049630237 Bloodhound Knight
+1049630238 Crystalians (Academy Crystal Cave)
+1049630239 Crystalians (Raya Lucaria Crystal Tunnel)
+1049630240 Magma Wyrm Makar
+1049630241 Alecto, Black Knife Ringleader
+1049630242 Bols, Carian Knight
+1049630243 Glintstone Dragon Adula
+1049630244 Glintstone Dragon Smarag
+1049630245 Royal Revenant
+1049630246 Omenkiller
+1049630247 Royal Knight Loretta
+1049630248 Onyx Lord
+1049630249 Bell-Bearing Hunter
+1049630250 Adan, Thief of Fire
+1049630251 Tibia Mariner
+1049630252 Night's Cavalry (East Raya Lucaria Gate)
+1049630253 Night's Cavalry (Liurnia Highway)
+1049630254 Death Rite Bird (Gate Town North)
+1049630255 Death Rite Bird (Scenic Isle)
+1049630256 Erdtree Avatar (Minor Erdtree)
+1049630257 Erdtree Avatar (Bellum Highway)
+# Academy of Raya Lucaria
+1049630258 Rennala, Queen of the Full Moon
+1049630259 Red Wolf of Radagon
+# Mt. Gelmir
+1049630260 Red Wolf of the Champion
+1049630261 Misbegotten Warrior/Perfumer Tricia
+1049630262 Kindred of Rot
+1049630263 Demi-Human Queen Margot
+1049630264 Magma Wyrm
+1049630265 Full-Grown Fallingstar Beast
+1049630266 Demi-Human Queen Maggie
+1049630267 Ulcerated Tree Spirit
+# Volcano Manor
+1049630268 Rykard, Lord of Blasphemy
+1049630269 Godskin Noble
+1049630270 Abductor Virgins
+# Altus Plateau 
+1049630271 Erdtree Burial Watchdog
+1049630272 Ancient Hero of Zamor
+1049630273 Crucible Knight Ordovis/Crucible Knight
+1049630274 Grave Warden Duelist
+1049630275 Miranda the Blighted Bloom
+1049630276 Black Knife Assassin (Sage's Cave)
+1049630277 Black Knife Assassin (Sainted Hero's Grave)
+1049630278 Necromancer Garris
+1049630279 Stonedigger Troll
+1049630280 Crystalians
+1049630281 Onyx Lord
+1049630282 Ancient Dragon Lansseax
+1049630283 Demi-Human Queen
+1049630284 Tibia Mariner
+1049630285 Godefroy the Grafted
+1049630286 Night's Cavalry
+1049630287 Sanguine Noble
+1049630288 Fallingstar Beast
+1049630289 Tree Sentinel Duo
+1049630290 Wormface
+1049630291 Godskin Apostle
+# Caelid
+1049630292 Starscourge Radahn
+1049630293 Erdtree Burial Watchdog
+1049630294 Cemetery Shade
+1049630295 Beastman of Farum Azula
+1049630296 Putrid Crystalians
+1049630297 Cleanrot Knight
+1049630298 Frenzied Duelist
+1049630299 Magma Wyrm
+1049630300 Fallingstar Beast
+1049630301 Godskin Apostle
+1049630302 Decaying Ekzykes
+1049630303 Mad Pumpkin Head
+1049630304 Bell-Bearing Hunter
+1049630305 Death Rite Bird
+1049630306 Commander O'Neil
+1049630307 Nox Priest and Swordstress
+1049630308 Battlemage Hugues
+1049630309 Crucible Knight
+1049630310 Black Blade Kindred
+1049630311 Flying Dragon Greyll
+1049630312 Elder Dragon Greyoll
+1049630313 Night's Cavalry (Southern Aeonia)
+1049630314 Night's Cavalry (Lenne's Rise)
+1049630315 Putrid Tree Spirit
+1049630316 Putrid Avatar (Minor Erdtree)
+1049630317 Putrid Avatar (Minor Erdtree)
+# Capital Outskirts
+1049630318 Fell Twins
+1049630319 Bell-Bearing Hunter
+1049630320 Death Rite Bird
+1049630321 Draconic Tree Sentinel
+# Leyndell
+1049630322 Godfrey, First Elden Lord
+1049630323 Morgott, the Omen King
+# Subterranean Shunning-Grounds
+1049630324 Mohg, The Omen
+1049630325 Esgar, Priest of Blood
+# Siofra River
+1049630326 Valiant Gargoyles
+1049630327 Dragonkin Soldier
+1049630328 Ancestor Spirit
+# Ainsel River
+1049630329 Dragonkin Soldier of Nokstella
+# Lake of Rot
+1049630330 Dragonkin Soldier
+1049630331 Astel, Naturalborn of the Void
+# Deeproot Depths
+1049630332 Crucible Knight Sirulia
+1049630333 Fia's Champions
+1049630334 Lichdragon Fortissax
+# Mohgwyn Palace
+1049630335 Mohg, Lord of Blood
+# Nokron, Eternal City
+1049630336 Regal Ancestor Spirit
+1049630337 Mimic Tear
+# Consecrated Snowfield
+1049630338 Putrid Grave Warden Duelist
+1049630339 Astel, Stars of Darkness
+1049630340 Death Rite Bird
+# Mountaintops of the Giants
+1049630341 Fire Giant
+1049630342 Ancient Hero of Zamor
+1049630343 Ulcerated Tree Sprit
+1049630344 Misbegotten Crusader
+1049630345 Spirit-Caller Snail
+1049630346 Black Blade Kindred
+1049630347 Great Wyrm Theodorix
+1049630348 Death Rite Bird
+1049630349 Commander Niall
+1049630350 Erdtree Avatar
+1049630351 Roundtable Knight Vyke
+1049630352 Borealis the Freezing Fog
+1049630353 Night's Cavalry (Forbidden Lands)
+1049630354 Night's Cavalry (Foggy Snowfield)
+1049630355 Putrid Avatar
+# Ashen Leyndell
+1049630356 Hoarah Loux
+1049630357 Sir Gideon Ofnir
+# Crumbling Farum Azula
+1049630358 Maliketh, The Black Blade
+1049630359 Dragonlord Placidusax
+1049630360 Godskin Duo
+# Miquella's Haligtree
+1049630361 Malenia, Blade of Miquella
+1049630362 Loretta, Knight of the Haligtree
+1049630363 Stray Mimic Tear
+# Elden Throne
+1049630364 Radagon of the Golden Order
+1049630365 Elden Beast
+# Misc
+1049630366 Elemer of the Briar
+1049630367
+1049630368
+1049630369
+1049630370
+1049630371
+1049630372
+1049630373
+1049630374
+1049630375
+1049630376
+1049630377
+1049630378
+1049630379
+1049630380
+1049630381
+1049630382
+1049630383
+1049630384
+1049630385
+1049630386
+1049630387
+1049630388
+1049630389
+1049630390
+1049630391
+1049630392
+1049630393
+1049630394
+1049630395
+1049630396
+1049630397
+1049630398
+1049630399 Night Boss: Toggle Night on reload
+
+#------------------------------------
+104760_0000 Transmog
+#------------------------------------
+1047600000 Iron Set [Head]
+1047600001 Iron Set [Body]
+1047600002 Kaiden Set [Head]
+1047600003 Kaiden Set [Body]
+1047600004 Drake Knight Set [Head]
+1047600005 Drake Knight Set [Body]
+1047600006 Drake Knight Set (Altered) [Head]
+1047600007 Drake Knight Set (Altered) [Body]
+1047600008 Scaled Set [Head]
+1047600009 Scaled Set [Body]
+1047600010 Scaled Set (Altered) [Head]
+1047600011 Scaled Set (Altered) [Body]
+1047600012 Perfumer Set [Head]
+1047600013 Perfumer Set [Body]
+1047600014 Perfumer Set (Altered) [Head]
+1047600015 Perfumer Set (Altered) [Body]
+1047600016 Travelling Perfumer Set [Head]
+1047600017 Travelling Perfumer Set [Body]
+1047600018 Travelling Perfumer Set (Altered) [Head]
+1047600019 Travelling Perfumer Set (Altered) [Body]
+1047600020 Alberich's Set [Head]
+1047600021 Alberich's Set [Body]
+1047600022 Alberich's Set (Altered) [Head]
+1047600023 Alberich's Set (Altered) [Body]
+1047600024 Spellblade Set [Head]
+1047600025 Spellblade Set [Body]
+1047600026 Spellblade Set (Altered) [Head]
+1047600027 Spellblade Set (Altered) [Body]
+1047600028 Bull-Goat Set [Head]
+1047600029 Bull-Goat Set [Body]
+1047600030 Ronin's Set [Head]
+1047600031 Ronin's Set [Body]
+1047600032 Ronin's Set (Altered) [Head]
+1047600033 Ronin's Set (Altered) [Body]
+1047600034 Guilty Set [Head]
+1047600035 Guilty Set [Body]
+1047600036 Blaidd's Set [Head]
+1047600037 Blaidd's Set [Body]
+1047600038 Blaidd's Set (Altered) [Head]
+1047600039 Blaidd's Set (Altered) [Body]
+1047600040 Black Knife Set [Head]
+1047600041 Black Knife Set [Body]
+1047600042 Black Knife Set (Altered) [Head]
+1047600043 Black Knife Set (Altered) [Body]
+1047600044 Exile Set [Head]
+1047600045 Exile Set [Body]
+1047600046 Banished Knight Set [Head]
+1047600047 Banished Knight Set [Body]
+1047600048 Banished Knight Set (Altered) [Head]
+1047600049 Banished Knight Set (Altered) [Body]
+1047600050 Briar Set [Head]
+1047600051 Briar Set [Body]
+1047600052 Briar Set (Altered) [Head]
+1047600053 Briar Set (Altered) [Body]
+1047600054 Page Set [Head]
+1047600055 Page Set [Body]
+1047600056 Page Set (Altered) [Head]
+1047600057 Page Set (Altered) [Body]
+1047600058 Night's Cavalry Set [Head]
+1047600059 Night's Cavalry Set [Body]
+1047600060 Night's Cavalry Set (Altered) [Head]
+1047600061 Night's Cavalry Set (Altered) [Body]
+1047600062 Blue Silver Set [Head]
+1047600063 Blue Silver Set [Body]
+1047600064 Blue Silver Set (Altered) [Head]
+1047600065 Blue Silver Set (Altered) [Body]
+1047600066 Nomadic Merchant Set [Head]
+1047600067 Nomadic Merchant Set [Body]
+1047600068 Nomadic Merchant Set (Altered) [Head]
+1047600069 Nomadic Merchant Set (Altered) [Body]
+1047600070 Malformed Dragon Set [Head]
+1047600071 Malformed Dragon Set [Body]
+1047600072 Tree Sentinel Set [Head]
+1047600073 Tree Sentinel Set [Body]
+1047600074 Tree Sentinel Set (Altered) [Head]
+1047600075 Tree Sentinel Set (Altered) [Body]
+1047600076 Royal Knight Set [Head]
+1047600077 Royal Knight Set [Body]
+1047600078 Royal Knight Set (Altered) [Head]
+1047600079 Royal Knight Set (Altered) [Body]
+1047600080 Nox Monk Set [Head]
+1047600081 Nox Monk Set [Body]
+1047600082 Nox Monk Set (Altered) [Head]
+1047600083 Nox Monk Set (Altered) [Body]
+1047600084 Nox Swordstress Set [Head]
+1047600085 Nox Swordstress Set [Body]
+1047600086 Nox Swordstress Set (Altered) [Head]
+1047600087 Nox Swordstress Set (Altered) [Body]
+1047600088 Night Maiden Set [Head]
+1047600089 Night Maiden Set [Body]
+1047600090 Ancestral Fur Set [Head]
+1047600091 Ancestral Fur Set [Body]
+1047600092 Ancestral Shaman Set [Head]
+1047600093 Ancestral Shaman Set [Body]
+1047600094 Duelist Set [Head]
+1047600095 Duelist Set [Body]
+1047600096 Duelist Set (Altered) [Head]
+1047600097 Duelist Set (Altered) [Body]
+1047600098 Sanguine Noble Set [Head]
+1047600099 Sanguine Noble Set [Body]
+1047600100 Guardian Set [Head]
+1047600101 Guardian Set (Full Bloom) [Body]
+1047600102 Guardian Set (Altered) [Head]
+1047600103 Guardian Set (Altered) [Body]
+1047600104 Cleanrot Set [Head]
+1047600105 Cleanrot Set [Body]
+1047600106 Cleanrot Set (Altered) [Head]
+1047600107 Cleanrot Set (Altered) [Body]
+1047600108 Fire Monk Set [Head]
+1047600109 Fire Monk Set [Body]
+1047600110 Blackflame Monk Set [Head]
+1047600111 Blackflame Monk Set [Body]
+1047600112 Fire Prelate Set [Head]
+1047600113 Fire Prelate Set [Body]
+1047600114 Fire Prelate Set (Altered) [Head]
+1047600115 Fire Prelate Set (Altered) [Body]
+1047600116 Aristocrat Set [Head]
+1047600117 Aristocrat Set [Body]
+1047600118 Wandering Aristocrat Set [Head]
+1047600119 Wandering Aristocrat Set [Body]
+1047600120 Old Aristocrat Set [Head]
+1047600121 Old Aristocrat Set [Body]
+1047600122 Vulgar Militia Set [Head]
+1047600123 Vulgar Militia Set [Body]
+1047600124 Sage Set [Head]
+1047600125 Sage Set [Body]
+1047600126 Pumpkin Helm [Head]
+1047600127 Elden Lord Set [Head]
+1047600128 Elden Lord Set [Body]
+1047600129 Elden Lord Set (Altered) [Head]
+1047600130 Elden Lord Set (Altered) [Body]
+1047600131 General Radahn's Set [Head]
+1047600132 General Radahn's Set [Body]
+1047600133 General Radahn's Set (Altered) [Head]
+1047600134 General Radahn's Set (Altered) [Body]
+1047600135 Queen's Set [Head]
+1047600136 Queen's Set [Body]
+1047600137 Godskin Apostle Set [Head]
+1047600138 Godskin Apostle Set [Body]
+1047600139 Godskin Noble Set [Head]
+1047600140 Godskin Noble Set [Body]
+1047600141 Depraved Perfumer Set [Head]
+1047600142 Depraved Perfumer Set [Body]
+1047600143 Depraved Perfumer Set (Altered) [Head]
+1047600144 Depraved Perfumer Set (Altered) [Body]
+1047600145 Crucible Axe Set [Head]
+1047600146 Crucible Axe Set [Body]
+1047600147 Crucible Axe Set (Altered) [Head]
+1047600148 Crucible Axe Set (Altered) [Body]
+1047600149 Crucible Tree Set [Head]
+1047600150 Crucible Tree Set [Body]
+1047600151 Lusat's Set [Head]
+1047600152 Lusat's Set [Body]
+1047600153 Azur's Set [Head]
+1047600154 Azur's Set [Body]
+1047600155 All-Knowing Set [Head]
+1047600156 All-Knowing Set [Body]
+1047600157 All-Knowing Set (Altered) [Head]
+1047600158 All-Knowing Set (Altered) [Body]
+1047600159 Twinned Set [Head]
+1047600160 Twinned Set [Body]
+1047600161 Twinned Set (Altered) [Head]
+1047600162 Twinned Set (Altered) [Body]
+1047600163 Ragged Set [Head]
+1047600164 Ragged Set [Body]
+1047600165 Ragged Set (Altered) [Head]
+1047600166 Ragged Set (Altered) [Body]
+1047600167 Prophet Set [Head]
+1047600168 Prophet Set [Body]
+1047600169 Prophet Set (Altered) [Head]
+1047600170 Prophet Set (Altered) [Body]
+1047600171 Prophet Set (Alt) [Body]
+1047600172 Astrologer Set [Head]
+1047600173 Astrologer Set [Body]
+1047600174 Astrologer Set (Altered) [Head]
+1047600175 Astrologer Set (Altered) [Body]
+1047600176 Lionel's Set [Head]
+1047600177 Lionel's Set [Body]
+1047600178 Lionel's Set (Altered) [Head]
+1047600179 Lionel's Set (Altered) [Body]
+1047600180 Hoslow's Set [Head]
+1047600181 Hoslow's Set [Body]
+1047600182 Hoslow's Set (Diallos) [Head]
+1047600183 Hoslow's Set (Diallos) [Body]
+1047600184 Hoslow's Set (Alt) [Head]
+1047600185 Hoslow's Set (Alt) [Body]
+1047600186 Vagabond Knight Set [Head]
+1047600187 Vagabond Knight Set [Body]
+1047600188 Vagabond Knight Set (Altered) [Head]
+1047600189 Vagabond Knight Set (Altered) [Body]
+1047600190 Blue Cloth Set [Head]
+1047600191 Blue Cloth Set [Body]
+1047600192 War Surgeon Set [Head]
+1047600193 War Surgeon Set [Body]
+1047600194 War Surgeon Set (Altered) [Head]
+1047600195 War Surgeon Set (Altered) [Body]
+1047600196 Royal Remains Set [Head]
+1047600197 Royal Remains Set [Body]
+1047600198 Brave's Set [Head]
+1047600199 Brave's Set [Body]
+1047600200 Brave's Set (Altered) [Head]
+1047600201 Brave's Set (Altered) [Body]
+1047600202 Brave's Leather Helm [Head]
+1047600203 Beast Champion Set [Head]
+1047600204 Beast Champion Set [Body]
+1047600205 Beast Champion Set (Altered) [Head]
+1047600206 Beast Champion Set (Altered) [Body]
+1047600207 Champion Set [Head]
+1047600208 Champion Set [Body]
+1047600209 Noble's Set (Crimson) [Head]
+1047600210 Noble's Set (Crimson) [Body]
+1047600211 Navy Hood [Head]
+1047600212 Maliketh's Set [Head]
+1047600213 Maliketh's Set [Body]
+1047600214 Maliketh's Set (Altered) [Head]
+1047600215 Maliketh's Set (Altered) [Body]
+1047600216 Malenia's Set [Head]
+1047600217 Malenia's Set [Body]
+1047600218 Malenia's Set (Altered) [Head]
+1047600219 Malenia's Set (Altered) [Body]
+1047600220 Veteran's Set [Head]
+1047600221 Veteran's Set [Body]
+1047600222 Veteran's Set (Altered) [Head]
+1047600223 Veteran's Set (Altered) [Body]
+1047600224 Bloodhound Knight Set [Head]
+1047600225 Bloodhound Knight Set [Body]
+1047600226 Bloodhound Knight Set (Altered) [Head]
+1047600227 Bloodhound Knight Set (Altered) [Body]
+1047600228 Festive Set [Head]
+1047600229 Festive Set [Body]
+1047600230 Festive Set (Altered) [Head]
+1047600231 Festive Set (Altered) [Body]
+1047600232 Blue Festive Set [Head]
+1047600233 Blue Festive Set [Body]
+1047600234 Commoner's Set [Head]
+1047600235 Commoner's Set [Body]
+1047600236 Commoner's Set (Altered) [Head]
+1047600237 Commoner's Set (Altered) [Body]
+1047600238 Simple Commoner's Set [Head]
+1047600239 Simple Commoner's Set [Body]
+1047600240 Envoy Crown [Head]
+1047600241 Twinsage Glintstone Crown [Head]
+1047600242 Raya Lucaria Scholar Set [Body]
+1047600243 Olivinus Glintstone Crown [Head]
+1047600244 Lazuli Glintstone Crown [Head]
+1047600245 Karolos Glintstone Crown [Head]
+1047600246 Witch's Glintstone Crown [Head]
+1047600247 Marionette Soldier Set [Head]
+1047600248 Marionette Soldier Set [Body]
+1047600249 Marionette Soldier Birdhelm [Head]
+1047600250 Raging Wolf Set [Head]
+1047600251 Raging Wolf Set [Body]
+1047600252 Raging Wolf Set (Altered) [Head]
+1047600253 Raging Wolf Set (Altered) [Body]
+1047600254 Land of Reeds Set [Head]
+1047600255 Land of Reeds Set [Body]
+1047600256 Land of Reeds Set (Altered) [Head]
+1047600257 Land of Reeds Set (Altered) [Body]
+1047600258 White Reed Set [Head]
+1047600259 White Reed Set [Body]
+1047600260 Confessor Set [Head]
+1047600261 Confessor Set [Body]
+1047600262 Confessor Set (Altered) [Head]
+1047600263 Confessor Set (Altered) [Body]
+1047600264 Prisoner Set [Head]
+1047600265 Prisoner Set [Body]
+1047600266 Blackguard's Iron Mask [Head]
+1047600267 Traveling Maiden Set [Head]
+1047600268 Traveling Maiden Set [Body]
+1047600269 Traveling Maiden Set (Altered) [Head]
+1047600270 Traveling Maiden Set (Altered) [Body]
+1047600271 Finger Maiden Set [Head]
+1047600272 Finger Maiden Set [Body]
+1047600273 Finger Maiden Set (Altered) [Head]
+1047600274 Finger Maiden Set (Altered) [Body]
+1047600275 Preceptor's Set [Head]
+1047600276 Preceptor's Set [Body]
+1047600277 Preceptor's Set (Altered) [Head]
+1047600278 Preceptor's Set (Altered) [Body]
+1047600279 Grass Hair Ornament [Head]
+1047600280 Raptor's Set [Head]
+1047600281 Raptor's Set [Body]
+1047600282 Eccentric's Set [Head]
+1047600283 Eccentric's Set [Body]
+1047600284 Eccentric's Set (Altered) [Head]
+1047600285 Eccentric's Set (Altered) [Body]
+1047600286 Fingerprint Set [Head]
+1047600287 Fingerprint Set [Body]
+1047600288 Fingerprint Set (Altered) [Head]
+1047600289 Fingerprint Set (Altered) [Body]
+1047600290 Consort's Set [Head]
+1047600291 Consort's Set [Body]
+1047600292 Ruler's Set [Head]
+1047600293 Ruler's Set [Body]
+1047600294 Upper-Class Set [Head]
+1047600295 Upper-Class Set [Body]
+1047600296 Marais Set [Head]
+1047600297 Marais Set [Body]
+1047600298 Bloodsoaked Set [Head]
+1047600299 Bloodsoaked Set [Body]
+1047600300 Omen Set [Head]
+1047600301 Omen Set [Body]
+1047600302 Carian Knight Set [Head]
+1047600303 Carian Knight Set [Body]
+1047600304 Carian Knight Set [Altered) [Head]
+1047600305 Carian Knight Set [Altered) [Body]
+1047600306 Errant Sorcerer Set [Head]
+1047600307 Errant Sorcerer Set [Body]
+1047600308 Errant Sorcerer Set (Altered) [Head]
+1047600309 Errant Sorcerer Set (Altered) [Body]
+1047600310 Battlemage Set [Head]
+1047600311 Battlemage Set [Body]
+1047600312 Snow Witch Set [Head]
+1047600313 Snow Witch Set [Body]
+1047600314 Snow Witch Set (Altered) [Head]
+1047600315 Snow Witch Set (Altered) [Body]
+1047600316 Juvenile Scholar Set [Head]
+1047600317 Juvenile Scholar Set [Body]
+1047600318 Goldmask's Set [Head]
+1047600319 Goldmask's Set [Body]
+1047600320 Albinauric Set [Head]
+1047600321 Albinauric Set [Body]
+1047600322 Zamor Set [Head]
+1047600323 Zamor Set [Body]
+1047600324 Imp Head (Cat) [Head]
+1047600325 Imp Head (Fanged) [Head]
+1047600326 Imp Head (Long-Tongued) [Head]
+1047600327 Imp Head (Corpse) [Head]
+1047600328 Imp Head (Wolf) [Head]
+1047600329 Imp Head (Elder) [Head]
+1047600330 Silver Tear Mask [Head]
+1047600331 Chain Set [Head]
+1047600332 Chain Set [Body]
+1047600333 Greathelm [Head]
+1047600334 Eye Surcoat [Body]
+1047600335 Tree Surcoat [Body]
+1047600336 Octopus Head [Head]
+1047600337 Jar [Head]
+1047600338 Mushroom Set [Head]
+1047600339 Mushroom Set [Body]
+1047600340 Nox Mirrorhelm [Head]
+1047600341 Iji's Mirrorhelm [Head]
+1047600342 Leather Set [Head]
+1047600343 Leather Set [Body]
+1047600344 Bandit Mask [Head]
+1047600345 Knight Set [Head]
+1047600346 Knight Set [Body]
+1047600347 Greathood [Head]
+1047600348 Godrick Soldier Set [Head]
+1047600349 Godrick Soldier Set [Body]
+1047600350 Raya Lucarian Soldier Set [Head]
+1047600351 Raya Lucarian Soldier Set [Body]
+1047600352 Leyndell Soldier Set [Head]
+1047600353 Leyndell Soldier Set [Body]
+1047600354 Radahn Soldier Set [Head]
+1047600355 Radahn Soldier Set [Body]
+1047600356 Mausoleum Soldier Set [Head]
+1047600357 Mausoleum Soldier Set [Body]
+1047600358 Haligtree Soldier Set [Head]
+1047600359 Haligtree Soldier Set [Body]
+1047600360 Gelmir Knight Set [Head]
+1047600361 Gelmir Knight Set [Body]
+1047600362 Gelmir Knight Set (Altered) [Head]
+1047600363 Gelmir Knight Set (Altered) [Body]
+1047600364 Godrick Knight Set [Head]
+1047600365 Godrick Knight Set [Body]
+1047600366 Godrick Knight Set (Altered) [Head]
+1047600367 Godrick Knight Set (Altered) [Body]
+1047600368 Cuckoo Knight Set [Head]
+1047600369 Cuckoo Knight Set [Body]
+1047600370 Cuckoo Knight Set (Altered) [Head]
+1047600371 Cuckoo Knight Set (Altered) [Body]
+1047600372 Leyndell Knight Set [Head]
+1047600373 Leyndell Knight Set [Body]
+1047600374 Leyndell Knight Set (Altered) [Head]
+1047600375 Leyndell Knight Set (Altered) [Body]
+1047600376 Redmane Knight Set [Head]
+1047600377 Redmane Knight Set [Body]
+1047600378 Redmane Knight Set (Altered) [Head]
+1047600379 Redmane Knight Set (Altered) [Body]
+1047600380 Mausoleum Knight Set [Head]
+1047600381 Mausoleum Knight Set [Body]
+1047600382 Mausoleum Knight Set (Altered) [Head]
+1047600383 Mausoleum Knight Set (Altered) [Body]
+1047600384 Haligtree Knight Set [Head]
+1047600385 Haligtree Knight Set [Body]
+1047600386 Haligtree Knight Set (Altered) [Head]
+1047600387 Haligtree Knight Set (Altered) [Body]
+1047600388 Godrick Foot Soldier Set [Head]
+1047600389 Godrick Foot Soldier Set [Body]
+1047600390 Raya Lucarian Foot Soldier Set [Head]
+1047600391 Raya Lucarian Foot Soldier Set [Body]
+1047600392 Leyndell Foot Soldier Set [Head]
+1047600393 Leyndell Foot Soldier Set [Body]
+1047600394 Radahn Foot Soldier Set [Head]
+1047600395 Radahn Foot Soldier Set [Body]
+1047600396 Haligtree Foot Soldier Set [Head]
+1047600397 Haligtree Foot Soldier Set [Body]
+1047600398 Omenkiller Set [Head]
+1047600399 Omenkiller Set [Body]
+1047600400 Ash-of-War Scarab [Head]
+1047600401 Incantation Scarab [Head]
+1047600402 Glintstone Scarab [Head]
+1047600403 Crimson Tear Scarab [Head]
+1047600404 Cerulean Tear Scarab [Head]
+1047600405 Fia's Set [Head]
+1047600406 Fia's Set [Body]
+1047600407 Fia's Set (Altered) [Head]
+1047600408 Fia's Set (Altered) [Body]
+1047600409 Highwayman Set [Head]
+1047600410 Highwayman Set [Body]
+1047600411 High Page Set [Head]
+1047600412 High Page Set [Body]
+1047600413 High Page Set (Altered) [Head]
+1047600414 High Page Set (Altered) [Body]
+1047600415 Rotten Duelist Set [Head]
+1047600416 Rotten Duelist Set [Body]
+1047600417 Rotten Duelist Set (Altered) [Head]
+1047600418 Rotten Duelist Set (Altered) [Body]
+1047600419 Mushroom Crown [Head]
+1047600420 Black Dumpling [Head]
+1047600421 Lazuli Robe [Body]
+1047600422 Crab Carcass [Head]
+1047600423 Millicent's Set [Body]
+1047600424 Rotten Set [Body]
+1047600425 Deathbed Set [Body]
+1047600426 Fell Omen Cloak [Body]
+1047600427 Mask of the Mother [Head]
+1047600428 Mask of the Child [Head]
+1047600429 Mask of the Father [Head]
+1047600430 Giant Set [Head]
+1047600431 Giant Set [Body]
+
+1047600998 None [Head]
+1047600999 None [Body]
+
+#------------------------------------
+Vanilla 
+#------------------------------------
+[UV] means unverified
+
+21 Ending: Age of Stars
+22 Ending: Lord of the Frenzied Flame
+
+# Great Rune
+171 Godrick's Great Rune
+172 Radahn's Great Rune
+173 Morgott's Great Rune
+174 Rykard's Great Rune
+175 Mohg's Great Rune
+176 Malenia's Great Rune
+197 Great Rune of the Unborn
+
+# Progression
+104 Visited Roundtable Hold (via Melina)
+105 
+106
+107
+108 Rold Medallion or Frenzied Flame
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120 Finished Game
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+
+3480
+3481
+3482
+3483
+3484
+3485
+3486
+3487
+3488 [UV] Burnt Erdtree?
+3489 [UV] Roundhold Table is burnt
+
+# Melina
+4653 Melina Interaction: 
+4670
+4680 
+4681 Melina Interaction: Introduction Spiel
+4698
+
+6010 
+
+10000851 Trigger Roundtable Hold interaction with Melina
+
+11009260 Melina Interaction: Unable to enter Erdtree
+10009655 Melina Interaction: Roundtable Hold
+11009252
+11109687 
+11002745 
+11109786 Melina Interaction: Melina warped player to Roundtable Hold
+
+35009360 Melina Interaction: Left due to player joining the Frenzied Flame
+
+# Ensha
+11109656 Ensha of the Royal Remains related
+11109774
+11109775
+11109776
+11109777
+11109785 [UV] Twin Maiden Husk - Notify Player on New Items
+
+1054532702 Forge of the Giants related
+1054532703 Forge of the Giants related
+
+# Bosses
+9100 Godrick the Grafted - Stormveil Castle
+9101 Margit, the Fell Omen - Stormveil Castle
+9112
+9103 Grafted Scion - Chapel of Anticipation
+9104 Morgott, the Omen King - Leyndell
+9105 Godfrey, First Elden Lord - Leyndell
+9106 Sir Gideon Ofnir, the All-Knowing - Leyndell
+9107 Hoarah Loux - Leyndell
+9108 Astel, Naturalborn of the Void - Lake of Rot
+9109 Dragonkin Soldier of Nokstella - Ainsel River
+9110 Valiant Gargoyle
+9111 Lichdragon Fortissax
+9112 Mohg (Mohgwyn Palace)
+9113
+9114 Godskin Duo
+9115 Dragonlord Placidusax
+9116 Maliketh
+9117 Red Wolf of Radagon
+9118 Rennala
+9119 Loretta
+9120 Malenia
+9121 Godskin Noble
+9122 Rykard, Lord of Blasphemy
+9123 Radagon
+9124
+9125 Mohg (Subterranean Shunning-Grounds)
+9126 Magma Wyrm Makar
+9127 
+9128 Ulcerated Tree Spirit
+9129 Abducator Virgins
+9130 Starscourge Radahn
+9131 Fire Giant
+9132 Ancestor Spirit
+9133 Regal Ancestor Spirit
+9134 Dragonkin Soldier - Lake of Rot
+9135 Fia's Champion - Deeproot Depths
+9173 Sanguine Noble
+9174 Fell Twins
+9180 Leonine Misbegotten
+9181 Loretta
+9182 Elemer of the Briar
+9183 Mosbegotten Warrior/Crucible Knight
+9184 Commander Niall
+9190 Elden Beast
+
+# Mending Rune
+9500 Mending Rune of Perfect Order
+9502 Mending Rune of the Death-Prince
+9504 Mending Rune of the Fell Curse
+
+# Mechanics
+60000 Flask of Crimson Tears
+60020 Flask of Wondrous Physick
+60100 Spectral Steed Whistle
+60110 Spirit Calling Bell
+60120 Crafting Kit
+60130 Whetstone Knife
+60140 Tailoring Tools
+60150 Golden Tailoring Tools
+60210 Tarnished's Wizened Finger
+60220 Tarnished's Furled Finger
+60230 Small Golden Effigy
+60240 Duelist's Furled Finger
+60250 Small Red Effigy
+60270 Bloody Finger
+60280 White Cipher Ring
+60290 Blue Cipher Ring
+60300 Taunter's Tongue
+60310 Finger Severer
+
+# Memory Stone
+60400 Source - World
+60410 Source - World
+60420 Source - World
+60430 Source - World
+60440 Source - Red Wolf of Radagon
+60450 Source - Demi-Human Queen Maggie
+60460 Source - World
+60470 Source - Twin Maiden Husks
+
+# Talisman Pouch
+60500 Finger Reader Enia - Godfrey
+60510 Margit Kill
+60520 Finger Reader Enia - 2 Great Runes
+
+# Maps
+62010 Map: Limgrave, West
+62011 Map: Weeping Peninsula
+62012 Map: Limgrave, East
+62020 Map: Liurnia, East
+62021 Map: Liurnia, North
+62022 Map: Liurnia, West
+62030 Map: Altus Plateau
+62031 Map: Leyndell, Royal Capital
+62032 Map: Mt. Gelmir
+62040 Map: Caelid
+62041 Map: Dragonbarrow
+62050 Map: Mountaintops of the Giants, West
+62051 Map: Mountaintops of the Giants, East
+62060 Map: Ainsel River
+62061 Map: Lake of Rot
+62063 Map: Siofra River
+62062 Map: Mohgwyn Palace
+62064 Map: Deeproot Depths
+62052 Map: Consecrated Snowfield
+
+# Crystal Tear
+65000 Crimsonspill Crystal Tear
+65010 Greenspill Crystal Tear
+65020 Crimson Crystal Tear
+65030 Crimson Crystal Tear
+65040 Cerulean Crystal Tear
+65050 Cerulean Crystal Tear
+65060 Speckled Hardtear
+65070 Crimson Bubbletear
+65080 Opaline Bubbletear
+65090 Crimsonburst Crystal Tear
+65100 Greenburst Crystal Tear
+65110 Opaline Hardtear
+65120 Winged Crystal Tear
+65130 Thorny Cracked Tear
+65140 Spiked Cracked Tear
+65150 Windy Crystal Tear
+65160 Ruptured Crystal Tear
+65170 Ruptured Crystal Tear
+65180 Leaden Hardtear
+65190 Twiggy Cracked Tear
+65200 Crimsonwhorl Bubbletear
+65210 Strength-knot Crystal Tear
+65220 Dexterity-knot Crystal Tear
+65230 Intelligence-knot Crystal Tear
+65240 Faith-knot Crystal Tear
+65250 Cerulean Hidden Tear
+65260 Stonebarb Cracked Tear
+65270 Purifying Crystal Tear
+65280 Flame-Shrouding Cracked Tear
+65290 Magic-Shrouding Cracked Tear
+65300 Lightning-Shrouding Cracked Tear
+65310 Holy-Shrouding Cracked Tear
+65320 Arcane-knot Crystal Tear
+65330 Void-Tainted Cracked Tear 
+65340 Death-Tainted Cracked Tear 
+65350 Dragon-Tainted Cracked Tear 
+65360 Beast-Tainted Cracked Tear 
+65370
+65380
+65390
+
+# Whetblade
+65610 Iron Whetblade
+65640 Red-Hot Whetblade
+65660 Sanctified Whetblade
+65680 Glintstone Whetblade
+65720 Black Whetblade
+
+
+# Ash of War
+65810 Ash of War: Impaling Thrust 
+65811 Ash of War: Piercing Fang 
+65812 Ash of War: Spinning Slash 
+65813 Ash of War: Repeating Thrust 
+65814 Ash of War: Double Slash 
+65815 Ash of War: Unsheathe 
+65816 Ash of War: Sword Dance 
+65818 Ash of War: Quickstep 
+65819 Ash of War: Bloodhound's Step 
+65820 Ash of War: Lion's Claw 
+65821 Ash of War: Stamp (Upward Cut) 
+65822 Ash of War: Stamp (Sweep) 
+65823 Ash of War: Wild Strikes 
+65824 Ash of War: Earthshaker 
+65825 Ash of War: Kick 
+65826 Ash of War: Ground Slam 
+65827 Ash of War: Hoarah Loux's Earthshaker 
+65828 Ash of War: Barbaric Roar 
+65829 Ash of War: War Cry 
+65830 Ash of War: Troll's Roar 
+65831 Ash of War: Braggart's Roar 
+65832 Ash of War: Endure 
+65833 Ash of War: Charge Forth 
+65834 Ash of War: Square Off 
+65835 Ash of War: Giant Hunt 
+65836 Ash of War: Spinning Strikes 
+65837 Ash of War: Storm Assault 
+65838 Ash of War: Stormcaller 
+65839 Ash of War: Storm Blade 
+65840 Ash of War: Vacuum Slice 
+65841 Ash of War: Storm Stomp 
+65842 Ash of War: Determination 
+65843 Ash of War: Royal Knight's Resolve 
+65844 Ash of War: Prelate's Charge 
+65845 Ash of War: Eruption 
+65846 Ash of War: Flaming Strike 
+65847 Ash of War: Black Flame Tornado 
+65848 Ash of War: Flame of the Redmanes 
+65849 Ash of War: Thunderbolt 
+65850 Ash of War: Lightning Slash 
+65851 Ash of War: Lightning Ram 
+65852 Ash of War: Loretta's Slash 
+65853 Ash of War: Spinning Weapon 
+65854 Ash of War: Glintblade Phalanx 
+65855 Ash of War: Glintstone Pebble 
+65856 Ash of War: Gravitas 
+65857 Ash of War: Carian Grandeur 
+65858 Ash of War: Carian Greatsword 
+65859 Ash of War: Waves of Darkness 
+65860 Ash of War: Cragblade 
+65861 Ash of War: Sacred Blade 
+65862 Ash of War: Prayerful Strike 
+65863 Ash of War: Golden Land 
+65864 Ash of War: Sacred Ring of Light 
+65865 Ash of War: Golden Slam 
+65866 Ash of War: Golden Vow 
+65867 Ash of War: Sacred Order 
+65868 Ash of War: Shared Order 
+65869 Ash of War: Beast's Roar 
+65870 Ash of War: Phantom Slash 
+65871 Ash of War: Spectral Lance 
+65872 Ash of War: Raptor of the Mists 
+65873 Ash of War: White Shadow's Lure 
+65874 Ash of War: Poison Moth Flight 
+65875 Ash of War: Poisonous Mist 
+65876 Ash of War: Blood Tax 
+65877 Ash of War: Bloody Slash 
+65878 Ash of War: Lifesteal Fist 
+65879 Ash of War: Blood Blade 
+65880 Ash of War: Assassin's Gambit 
+65881 Ash of War: Seppuku 
+65882 Ash of War: Ice Spear 
+65883 Ash of War: Chilling Mist 
+65884 Ash of War: Hoarfrost Stomp 
+65885 Ash of War: No Skill 
+65886 Ash of War: Shield Bash 
+65887 Ash of War: Shield Crash 
+65888 Ash of War: Barricade Shield 
+65889 Ash of War: Parry 
+65890 Ash of War: Carian Retaliation 
+65891 Ash of War: Storm Wall 
+65892 Ash of War: Golden Parry 
+65893 Ash of War: Thops's Barrier 
+65894 Ash of War: Holy Ground 
+65895 Ash of War: Vow of the Indomitable 
+65896 Ash of War: Barrage 
+65897 Ash of War: Mighty Shot 
+65898 Ash of War: Sky Shot 
+65899 Ash of War: Through and Through 
+65900 Ash of War: Enchanted Shot 
+65901 Ash of War: Rain of Arrows 
+
+# Cracked Pot
+66000
+66010
+66020
+66030
+66040
+66050
+66060
+66070
+66080
+66090
+66100
+66110
+66120
+66130
+66140 
+66150
+66160
+66170
+66180
+66190
+
+# Ritual Pot
+66400
+66410
+66420
+66430
+66440
+66450
+66460
+66470
+66480
+66490
+
+# Perfume Bottle
+66700
+66710
+66720
+66730
+66740
+66750
+66760
+66770
+66780
+66790
+
+# Cookbooks
+67000 Nomadic Warrior's Cookbook [1]
+67110 Nomadic Warrior's Cookbook [2]
+67010 Nomadic Warrior's Cookbook [3]
+67800 Nomadic Warrior's Cookbook [4]
+67830 Nomadic Warrior's Cookbook [5]
+67020 Nomadic Warrior's Cookbook [6]
+67050 Nomadic Warrior's Cookbook [7]
+67880 Nomadic Warrior's Cookbook [8]
+67430 Nomadic Warrior's Cookbook [9]
+67030 Nomadic Warrior's Cookbook [10]
+67220 Nomadic Warrior's Cookbook [11]
+67060 Nomadic Warrior's Cookbook [12]
+67080 Nomadic Warrior's Cookbook [13]
+67870 Nomadic Warrior's Cookbook [14]
+67900 Nomadic Warrior's Cookbook [15]
+67290 Nomadic Warrior's Cookbook [16]
+67100 Nomadic Warrior's Cookbook [17]
+67270 Nomadic Warrior's Cookbook [18]
+67070 Nomadic Warrior's Cookbook [19]
+67230 Nomadic Warrior's Cookbook [20]
+67120 Nomadic Warrior's Cookbook [21]
+67890 Nomadic Warrior's Cookbook [22]
+67090 Nomadic Warrior's Cookbook [23]
+67910 Nomadic Warrior's Cookbook [24]
+
+67200 Armorer's Cookbook [1]
+67210 Armorer's Cookbook [2]
+67280 Armorer's Cookbook [3]
+67260 Armorer's Cookbook [4]
+67310 Armorer's Cookbook [5]
+67300 Armorer's Cookbook [6]
+67250 Armorer's Cookbook [7]
+
+67410 Glintstone Craftsman's Cookbook [1]
+67450 Glintstone Craftsman's Cookbook [2]
+67480 Glintstone Craftsman's Cookbook [3]
+67400 Glintstone Craftsman's Cookbook [4]
+67420 Glintstone Craftsman's Cookbook [5]
+67460 Glintstone Craftsman's Cookbook [6]
+67470 Glintstone Craftsman's Cookbook [7]
+67440 Glintstone Craftsman's Cookbook [8]
+
+67610 Missionary's Cookbook [1]
+67600 Missionary's Cookbook [2]
+67650 Missionary's Cookbook [3]
+67640 Missionary's Cookbook [4]
+67630 Missionary's Cookbook [5]
+67130 Missionary's Cookbook [6]
+68230 Missionary's Cookbook [7]
+
+68000 Ancient Dragon Apostle's Cookbook [1]
+68010 Ancient Dragon Apostle's Cookbook [2]
+68030 Ancient Dragon Apostle's Cookbook [3]
+68020 Ancient Dragon Apostle's Cookbook [4]
+
+67840 Perfumer's Cookbook [1]
+67850 Perfumer's Cookbook [2]
+67860 Perfumer's Cookbook [3]
+67920 Perfumer's Cookbook [4]
+
+68200 Fevor's Cookbook [1]
+68220 Fevor's Cookbook [2]
+68210 Fevor's Cookbook [3]
+
+68400 Frenzied's Cookbook [1]
+68410 Frenzied's Cookbook [2]
+
+82001 Underground Map
+
+# Rememberance
+270750 Remembrance of the Grafted
+270760 Remembrance of the Starscourge
+270770 Remembrance of the Omen King
+270780 Remembrance of the Blasphemous
+270790 Remembrance of the Rot Goddess
+270800 Remembrance of the Full Moon Queen
+270810 Remembrance of the Blood Lord
+270850 Remembrance of the Black Blade
+270860 Remembrance of Hoarah Loux
+270870 Remembrance of the Dragonlord
+270880 Remembrance of the Lichdragon
+270890 Remembrance of the Fire Giant
+270900 Remembrance of the Regal Ancestor
+270910 Elden Remembrance
+270920 Remembrance of the Naturalborn
+
+# Boss Items
+290000 Axe of Godrick
+290010 Grafted Dragon
+290020 Starscourge Greatsword
+290030 Lion Greatbow
+290040 Morgott's Cursed Sword
+290050 Regal Omen Bairn
+290060 Blasphemous Blade
+290070 Rykard's Rancor
+290080 Hand of Malenia
+290090 Scarlet Aeonia
+290100 Mohgwyn's Sacred Spear
+290110 Bloodboon
+290120 Maliketh's Black Blade
+290130 Black Blade
+290140 Axe of Godfrey
+290150 Ash of War: Hoarah Loux's Earthshaker
+290160 Dragon King's Cragblade
+290170 Placidusax's Ruin
+290180 Carian Regal Scepter
+290190 Rennala's Full Moon
+290200 Fortissax's Lightning Spear
+290210 Death Lightning
+290220 Giant's Red Braid
+290230 Burn
+290240 Winged Greathorn
+290250 Ancestral Spirit's Horn
+290260 Marika's Hammer
+290270 Sacred Relic Sword
+290280 Bastard's Stars
+290290 Ash of War: Waves of Darkness
+
+# Dragon Communion
+290500 Dragonfire
+290510 Dragonice
+290520 Glintstone Breath
+290530 Rotten Breath
+290540 Agheel's Flame
+290550 Borealis's Mist
+290560 Smarag's Glintstone Breath
+290570 Ekzykes's Decay
+
+290750 Dragonclaw
+290760 Dragonmaw
+290770 Magma Breath
+290780 Theodorix's Magma
+290790 Greyoll's Roar
+
+# Bell Bearings
+11109745 Bone Peddler's Bell Bearing
+11109746 Meat Peddler's Bell Bearing
+11109747 Medicine Peddler's Bell Bearing
+11109748 Gravity Stone Peddler's Bell Bearing
+11109751 Smithing-Stone Miner's Bell Bearing [1]
+11109752 Smithing-Stone Miner's Bell Bearing [2]
+11109753 Smithing-Stone Miner's Bell Bearing [3]
+11109754 Smithing-Stone Miner's Bell Bearing [4]
+11109755 Somberstone Miner's Bell Bearing [1]
+11109756 Somberstone Miner's Bell Bearing [2]
+11109757 Somberstone Miner's Bell Bearing [3]
+11109758 Somberstone Miner's Bell Bearing [4]
+11109759 Somberstone Miner's Bell Bearing [5]
+11109760 Glovewort Picker's Bell Bearing [1]
+11109761 Glovewort Picker's Bell Bearing [2]
+11109762 Glovewort Picker's Bell Bearing [3]
+11109763 Ghost-Glovewort Picker's Bell Bearing [1]
+11109764 Ghost-Glovewort Picker's Bell Bearing [2]
+11109765 Ghost-Glovewort Picker's Bell Bearing [3]
+
+# Default
+30000 Furlcalling Finger Remedy - Default
+30100 Fire Pot - Default
+30200 Rowa Raisin - Default
+30600 Bone Dart - Default
+30700 Rainbow Stone - Default
+
+#---------------------------------------------------
+# Recipes
+#---------------------------------------------------
+# Nomadic Warrior's Cookbook
+30105 Fetid Pot - Nomadic Warrior's Cookbook [4]
+30106 Swarm Pot - Nomadic Warrior's Cookbook [24]
+30110 Poison Pot - Nomadic Warrior's Cookbook [14]
+30111 Oil Pot - Nomadic Warrior's Cookbook [17]
+30112 Alluring Pot - Nomadic Warrior's Cookbook [21]
+30113 Beastlure Pot - Nomadic Warrior's Cookbook [5]
+30114 Roped Fire Pot - Nomadic Warrior's Cookbook [7]
+30116 Roped Fetid Pot - Nomadic Warrior's Cookbook [4]
+30117 Roped Poison Pot - Nomadic Warrior's Cookbook [14]
+30118 Roped Oil Pot - Nomadic Warrior's Cookbook [17]
+30120 Roped Fly Pot - Nomadic Warrior's Cookbook [24]
+30122 Roped Volcano Pot - Nomadic Warrior's Cookbook [20]
+30124 Volcano Pot - Nomadic Warrior's Cookbook [20]
+30126 Cursed-Blood Pot - Nomadic Warrior's Cookbook [12]
+30128 Rancor Pot - Nomadic Warrior's Cookbook [9]
+30131 Rot Pot - Nomadic Warrior's Cookbook [22]
+30301 Stanching Boluses - Nomadic Warrior's Cookbook [7]
+30302 Thawfrost Boluses - Nomadic Warrior's Cookbook [16]
+30303 Stimulating Boluses - Nomadic Warrior's Cookbook [16]
+30400 Pickled Turtle Neck - Nomadic Warrior's Cookbook [3]
+30402 Invigorating Cured Meat - Nomadic Warrior's Cookbook [2]
+30403 Clarifying Cured Meat - Nomadic Warrior's Cookbook [23]
+30404 Dappled Cured Meat - Nomadic Warrior's Cookbook [18]
+30405 Spellproof Dried Liver - Nomadic Warrior's Cookbook [11]
+30414 Invigorating White Cured Meat - Nomadic Warrior's Cookbook [2]
+30415 Clarifying White Cured Meat - Nomadic Warrior's Cookbook [23]
+30416 Dappled White Cured Meat - Nomadic Warrior's Cookbook [18]
+30504 Blood Grease - Nomadic Warrior's Cookbook [6]
+30506 Poison Grease - Nomadic Warrior's Cookbook [8]
+30509 Rot Grease - Nomadic Warrior's Cookbook [22]
+30514 Drawstring Blood Grease - Nomadic Warrior's Cookbook [6]
+30516 Drawstring Poison Grease - Nomadeic Warrior's Cookbook [8]
+30518 Drawstring Rot Grease - Nomadic Warrior's Cookbook [22]
+30201 Sweet Raisin - Nomadic Warrior's Cookbook [19]
+30202 Frozen Raisin - Nomadic Warrior's Cookbook [23]
+30601 Poisonbone Dart - Nomadic Warrior's Cookbook [14]
+30602 Crystal Dart - Nomadic Warrior's Cookbook [11]
+30701 Glowstone - Nomadic Warrior's Cookbook [2]
+30703 Soft Cotton - Nomadic Warrior's Cookbook [7]
+30704 Soap - Nomadic Warrior's Cookbook [17]
+30801 Warming Stone - Nomadic Warrior's Cookbook [19]
+32000 Bone Arrow (Fletched) - Nomadic Warrior's Cookbook [1]
+32001 Bone Arrow - Nomadic Warrior's Cookbook [1]
+32004 Poisonbone Arrow (Fletched) - Nomadic Warrior's Cookbook [3]
+32005 Poisonbone Arrow - Nomadic Warrior's Cookbook [3]
+32008 Stormwing Bone Arrow - Nomadic Warrior's Cookbook [10]
+32011 Rainbow Stone Arrow - Nomadic Warrior's Cookbook [7]
+32012 Shattershard Arrow - Nomadic Warrior's Cookbook [11]
+32017 Bloodbone Arrow (Fletched) - Nomadic Warrior's Cookbook [6]
+32018 Bloodbone Arrow - Nomadic Warrior's Cookbook [6]
+32021 Rotbone Arrow (Fletched) - Nomadic Warrior's Cookbook [15]
+32022 Rotbone Arrow - Nomadic Warrior's Cookbook [15]
+32100 Bone Great Arrow (Fletched) - Nomadic Warrior's Cookbook [1]
+32101 Bone Great Arrow - Nomadic Warrior's Cookbook [1]
+32200 Bone Bolt - Nomadic Warrior's Cookbook [1]
+32205 Poisonbone Bolt - Nomadic Warrior's Cookbook [3]
+32206 Bloodbone Bolt - Nomadic Warrior's Cookbook [6]
+32208 Rotbone Bolt - Nomadic Warrior's Cookbook [15]
+32300 Bone Ballista Bolt - Nomadic Warrior's Cookbook [13]
+
+# Armorer's Cookbook
+30101 Redmane Fire Pot - Armorer's Cookbook [4]
+30102 Giantsflame Fire Pot - Armorer's Cookbook [7]
+30300 Neutralizing Boluses - Armorer's Cookbook [2]
+30304 Preserving Boluses - Armorer's Cookbook [6]
+30401 Immunizing Cured Meat - Armorer's Cookbook [5]
+30406 Fireproof Dried Liver - Armorer's Cookbook [1]
+30411 Exalted Flesh - Armorer's Cookbook [3]
+30413 Immunizing White Cured Meat - Armorer's Cookbook [5]
+30500 Fire Grease - Armorer's Cookbook [1]
+30510 Drawstring Fire Grease - Armorer's Cookbook [1]
+32002 Firebone Arrow (Fletched) - Armorer's Cookbook [2]
+32003 Firebone Arrow - Armorer's Cookbook [2]
+32201 Firebone Bolt - Armorer's Cookbook [2]
+
+# Ancient Dragon Apostle's Cookbook
+30103 Lightning Pot - Ancient Dragon Apostle's Cookbook [2]
+30104 Ancient Dragonbolt Pot - Ancient Dragon Apostle's Cookbook [4]
+30115 Roped Lightning Pot - Ancient Dragon Apostle's Cookbook [2]
+30407 Lightningproof Dried Liver - Ancient Dragon Apostle's Cookbook [4]
+30501 Lightning Grease - Ancient Dragon Apostle's Cookbook [1]
+30508 Dragonwound Grease - Ancient Dragon Apostle's Cookbook [3]
+30511 Drawstring Lightning Grease - Ancient Dragon Apostle's Cookbook [1]
+32009 Lightningbone Arrow (Fletched) - Ancient Dragon Apostle's Cookbook [1]
+32010 Lightningbone Arrow - Ancient Dragon Apostle's Cookbook [1]
+32202 Lightningbone Bolt - Ancient Dragon Apostle's Cookbook [1]
+
+#  Missionary's Cookbook [1]
+30107 Holy Water Pot - Missionary's Cookbook [1]
+30108 Sacred Order Pot - Missionary's Cookbook [5]
+30123 Roped Holy Water Pot - Missionary's Cookbook [1]
+30305 Rejuvenating Boluses - Missionary's Cookbook [7]
+30408 Holyproof Dried Liver - Missionary's Cookbook [6]
+30409 Silver-Pickled Fowl Foot - Missionary's Cookbook [3]
+30410 Gold-Pickled Fowl Foot - Missionary's Cookbook [2]
+30503 Holy Grease - Missionary's Cookbook [4]
+30513 Drawstring Holy Grease - Missionary's Cookbook [4]
+30702 Grace Mimic - Missionary's Cookbook [2]
+30803 Scriptstone - Missionary's Cookbook [2]
+32015 Haligbone Arrow (Fletched) - Missionary's Cookbook [4]
+32016 Haligbone Arrow - Missionary's Cookbook [4]
+32204 Haligbone Bolt - Missionary's Cookbook [4]
+
+# Glintstone Craftsman's Cookbook [6]
+30109 Freezing Pot - Glintstone Craftsman's Cookbook [6]
+30119 Roped Magic Pot - Glintstone Craftsman's Cookbook [4]
+30125 Albinauric Pot - Glintstone Craftsman's Cookbook [3]
+30129 Magic Pot - Glintstone Craftsman's Cookbook [4]
+30130 Academy Magic Pot - Glintstone Craftsman's Cookbook [8]
+30502 Magic Grease - Glintstone Craftsman's Cookbook [5]
+30507 Freezing Grease - Glintstone Craftsman's Cookbook [2]
+30512 Drawstring Magic Grease - Glintstone Craftsman's Cookbook [5]
+30519 Shield Grease - Glintstone Craftsman's Cookbook [4]
+30800 Cuckoo Glintstone - Glintstone Craftsman's Cookbook [1]
+32013 Magicbone Arrow (Fletched) - Glintstone Craftsman's Cookbook [5]
+32014 Magicbone Arrow - Glintstone Craftsman's Cookbook [5]
+32019 Coldbone Arrow (Fletched) - Glintstone Craftsman's Cookbook [7]
+32020 Coldbone Arrow - Glintstone Craftsman's Cookbook [7]
+32203 Magicbone Bolt - Glintstone Craftsman's Cookbook [5]
+32207 Coldbone Bolt - Glintstone Craftsman's Cookbook [7]
+
+# Fevor's Cookbook
+30127 Sleep Pot - Fevor's Cookbook [1]
+30505 Soporific Grease - Fevor's Cookbook [2]
+30515 Drawstring Soporific Grease - Fevor's Cookbook [2]
+30804 Bewitching Branch - Fevor's Cookbook [3]
+32006 Sleepbone Arrow (Fletched) - Fevor's Cookbook [2]
+32007 Sleepbone Arrow - Fevor's Cookbook [2]
+32209 Sleepbone Bolt -  Fevor's Cookbook [2]
+
+# Frenzied's Cookbook
+30306 Clarifying Boluses - Frenzied's Cookbook [1]
+30802 Frenzyflame Stone - Frenzied’s Cookbook [2]
+
+# Perfumer's Cookbook
+30900 Uplifting Aromatic - Perfumer's Cookbook [1]
+30901 Spark Aromatic - Perfumer's Cookbook [1]
+30902 Ironjar Aromatic - Perfumer's Cookbook [3]
+30903 Bloodboil Aromatic - Perfumer's Cookbook [2]
+30904 Poison Spraymist - Perfumer's Cookbook [2]
+30905 Acid Spraymist - Perfumer's Cookbook [4]
+
+#------------------------------------
+# Ending Flags
+#------------------------------------
+9400 Ending A-1 (Age of Fracture)
+9401 Ending A-2 (Blessing of Despair)
+9402 Ending A-3 (Age of Duskborn)
+9403 Ending A-4 (Age of Order)
+
+9404 Ending B-1 (Age of Stars)
+9405 Ending B-2 (Age of Stars)
+
+9406 Ending C-1 (Lord of the Frenzied Flame)
+9407 Ending C-2 (Lord of the Frenzied Flame)
+
+#------------------------------------
+# Boss Defeat Flags
+#------------------------------------
+10000800 Godrick the Grafted
+10000850 Margit the Fell Omen
+10010800 Grafted Scion
+11000800 Morgott- the Omen King
+11000850 Godfrey- First Elden Lord
+11050800 Hoarah Loux
+11050850 Sir Gideon Ofnir
+12010800 Dragonkin Soldier of Nokstella
+12010850 Dragonkin Soldier (Lake of Rot)
+12020800 Valiant Gargoyles
+12020830 Dragonkin Soldier of Nokron
+12020850 Mimic Tear
+12030390 Crucible Knight
+12030800 Fia's Champion
+12030850 Lichdragon Fortissax
+12040800 Astel Naturalborn of the Void
+12050800 Mohg Lord of Blood
+12080800 Ancestor Spirit
+12090800 Regal Ancestor Spirit
+13000800 Maliketh- the Black Blade
+13000830 Dragonlord Placidusax
+13000850 Godskin Duo
+14000800 Rennala Queen of the Full Moon
+14000850 Red Wolf of Radagon
+15000800 Malenia Blade of Miquella
+15000850 Loretta Knight of the Haligtree
+16000800 Rykard Lord of Blasphemy
+16000850 Godskin Noble
+16000860 Abductor Virgins
+18000800 Ulcerated Tree Spirit
+18000850 Soldier of Godrick
+19000800 Elden Beast
+19000850 Radagon of the Golden Order
+35000800 Mohg The Omen
+35000850 Esgar Priest of Blood
+39200800 Magma Wyrm Makar
+30000800 Cemetery Shade
+30010800 Erdtree Burial Watchdog
+30020800 Erdtree Burial Watchdog
+30110800 Black Knife Assassin
+30040800 Grave Warden Duelist
+30050800 Cemetery Shade
+30050850 Black Knife Assassin
+30030800 Spirit-Caller Snail
+30060800 Erdtree Burial Watchdog
+30080800 Ancient Hero of Zamor
+30090800 Red Wolf of the Champion
+30100800 Crucible Knight Ordovis
+30100801 Crucible Knight
+30120800 Perfumer Tricia
+30120801 Misbegotten Warrior
+30070800 Erdtree Burial Watchdog
+30130800 Grave Warden Duelist
+30140800 Erdtree Burial Watchdog
+30150800 Cemetery Shade
+30160800 Putrid Tree Spirit
+30170800 Ancient Hero of Zamor
+30180800 Ulcerated Tree Sprit
+30190800 Putrid Grave Warden Duelist
+30200800 Stray Mimic Tear
+31000800 Patches
+31010800 Runebear
+31020800 Miranda the Blighted Bloom
+31030800 Beastman of Farum Azula
+31150800 Demi-Human Chief
+31170800 Guardian Golem
+31040800 Cleanrot Knight
+31050800 Bloodhound Knight
+31060800 Crystalians
+31070800 Kindred of Rot
+31090800 Demi-Human Queen Margot
+31180800 Omenkiller
+31190800 Black Knife Assassin
+31190850 Necromancer Garris
+31210800 Frenzied Duelist
+31100800 Beastman of Farum Azula
+31200800 Cleanrot Knight
+31110800 Crystalians
+31120800 Misbegotten Crusader
+31220800 Spirit-Caller Snail
+32000800 Scaly Misbegotten
+32010800 Stonedigger Troll
+32020800 Crystalian (Ringblade)
+32040800 Stonedigger Troll
+34120800 Onyx Lord
+32050800 Crystalian (Ringblade)
+32050801 Crystalian (Spear)
+32070800 Magma Wyrm
+32080800 Fallingstar Beast
+32110800 Astel- Stars of Darkness
+34130800 Godskin Apostle
+34140850 Fell Twins
+1044360800 Mad Pumpkin Head
+1043370340 Night's Cavalry
+1042380800 Death Rite Bird
+1042380850 Ball-Bearing Hunter
+1042330800 Ancient Hero of Zamor
+1044350800 Bloodhound Knight Darriwil
+1042370800 Crucible Knight
+1043330800 Erdtree Avatar
+1044320342 Night's Cavalry
+1044320340 Death Rite Bird
+1043300800 Leonine Misbegotten
+1042360800 Tree Sentinel
+1043360800 Flying Dragon Agheel
+1045390800 Tibia Mariner
+1034480800 Royal Revenant
+1038410800 Adan- Thief of Fire
+1033450800 Bols- Carian Knight
+1036500800 Onyx Lord
+1033420800 Alecto- Black Knife Ringleader
+1033430800 Erdtree Avatar
+1038480800 Erdtree Avatar
+1035500800 Royal Knight Loretta
+1037460800 Ball-Bearing Hunter
+1039430340 Night's Cavalry
+1036480340 Night's Cavalry
+1037420340 Death Rite Bird
+1036450340 Death Rite Bird
+1034450800 Glintstone Dragon Smarag
+1034500800 Glintstone Dragon Adula
+1034420800 Glintstone Dragon Adula - Moonfolk Ruins 
+1035420800 Omenkiller
+1039440800 Tibia Mariner
+1037510800 Ancient Dragon Lansseax - Spot 1
+1041520800 Ancient Dragon Lansseax - Spot 2
+1038510800 Demi-Human Queen
+1041500800 Fallingstar Beast
+1040530800 Sanguine Noble 
+1041510800 Tree Sentinel
+1042550800 Godskin Apostle
+1040520800 Black Knife Assassin
+1045520800 Draconic Tree Sentinel  
+1039500800 Godefroy the Grafted
+1041530800 Wormface
+1039510800 Night's Cavalry
+1044530800 Death Rite Bird
+1043530800 Ball-Bearing Hunter
+1037530800 Demi-Human Queen
+1035530800 Magma Wyrm
+1036540800 Full-Grown Fallingstar Beast
+1039540800 Elemer of the Briar
+1037540810 Ulcerated Tree Spirit
+1038520340 Tibia Mariner
+1047400800 Putrid Avatar
+1048370800 Decaying Ekzykes
+1048400800 Mad Pumpkin Head
+1049370800 Night's Cavalry
+1049370850 Death Rite Bird
+1049380800 Commander O'Neil
+1051360800 Crucible Knight
+1052380800 Starscourge Radahn
+1049390800 Nox Priest and Swordstress
+1048410800 Ball-Bearing Hunter
+1049390850 Battlemage Hugues
+1051400800 Putrid Avatar
+1052410800 Flying Dragon Greyll
+1052410850 Night's Cavalry
+1051430800 Black Blade Kindred
+1048510800 Night's Cavalry
+1049520800 Black Blade Kindred
+1054560800 Borealis the Freezing Fog
+1053560800 Roundtable Knight Vyke  
+1052520800 Fire Giant
+1052560800 Erdtree Avatar
+1050570800 Death Rite Bird  
+1050570850 Putrid Avatar
+1051570800 Commander Niall
+1050560800 Great Wyrm Theodorix
+1248550800 Night's Cavalry
+1048570800 Death Rite Bird   

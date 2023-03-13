@@ -1,0 +1,62 @@
+﻿#----------------------------------------
+# Overview
+#----------------------------------------
+# Fledgling Bell Bearing
+- Found in Stormveil Castle.
+ 
+# Budding Bell Bearing
+- Dropped by Erdtree Burial Watchdog in Wyndham Catacombs (Altus Plateau).
+ 
+# Blooming Bell Bearing
+- Found in upper Siofra River.
+
+# Resplendent Bell Bearing
+- Found in Crumbling Farum Azula.
+
+# Crude Bell Bearing
+- Dropped by the Stonedigger Troll in Limgrave Tunnels.
+
+# Rough Bell Bearing
+- Dropped by the Crystalian in Raya Lucaria Crystal Tunnel.
+
+# Refined Bell Bearing
+- Found in the Divine Tower of West Altus.
+
+# Pure Bell Bearing
+- Dropped by the Godskin Duo in Crumbling Farum Azula.
+
+# Glintstone Bell Bearing
+- Dropped by the Crystalians in Altus Tunnel.
+
+# Explosive Bell Bearing
+- Found in Volcano Manor.
+
+# Sanctuary Bell Bearing
+- Found in Morne Tunnel in the Weeping Penisula.
+
+# Pot-Maker's Cookbook
+- Found in Jarburg in Liurnia of the Lakes.
+
+# Pickler's Cookbook
+- Found in the lake of Liurnia of the Lakes, surrounded by 3 lobsters.
+ 
+# Alchemist's Cookbook
+- Found int he Divine Tower of Liurnia.
+ 
+# Perfumer's Cookbook
+- Found at the Perfumer's Ruins in Altus Plateau.
+
+# Fletcher's Cookbook
+- Found on the outside of the Divine Tower of Caelid.
+ 
+# Scholar's Cookbook
+- Found in the Academy of Raya Lucaria.
+ 
+# Mason's Cookbook
+- Given by Gideon Ofnir after visiting the Mohgwyn Dynasty Mausoleum.
+
+# Artificer's Cookbook
+- Found in the Academy Crystal Cave in Liurnia of the Lakes.
+
+
+
